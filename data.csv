@@ -1,0 +1,19 @@
+id,parentId,name,details,image
+100,,Introductory Python,Learn programming fundamentals with Python and AI!,icons/python.png
+101,100,Intermediate Python,Discover the real capabilities with Python and become a true developer!,icons/python.png
+102,101,Advanced Python,Discover the real capabilities with Python and become a true developer!,icons/python.png
+103,101,Microcontrollers,Discover the real capabilities with Python and become a true developer!,icons/python.png
+104,103,Web & Dashboards,Discover the real capabilities with Python and become a true developer!,icons/python.png
+105,103,Control Systems,Discover the real capabilities with Python and become a true developer!,icons/python.png
+106,105,Robotics,Discover the real capabilities with Python and become a true developer!,icons/robotics.png
+107,104,IoT,Discover the real capabilities with Python and become a true developer!,icons/python.png
+109,102,Python Automation Tools,Become a generic-ah programmer :(,icons/python.png
+111,109,Automation,Automata mata tamata,icons/python.png
+112,102,Django,Django mango banana orange,icons/python.png
+113,112,Web Developer,Yaaaaaaaaaaaa!,icons/web-dev.png
+114,102,Godot,Robot dot ot?,icons/python.png
+115,114,Game Developer,Now you can make PUBG at home!,icons/game-dev.png
+117,102,ML Deeplearning NLP,Terminator terminated!,icons/python.png
+118,102,Cleaning statistics ML,Terminator cleaned???,icons/python.png
+119,118,Data Scientist,it's science butfor data!,icons/python.png
+120,117,AI Engineer,Engineer that AI that fucks you up in fortnite!,icons/python.png
