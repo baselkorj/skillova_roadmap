@@ -1,12 +1,12 @@
 id,parentId,name,details
 100,,Introductory Python,Learn programming fundamentals with Python and AI!
-101,100,Intermediate Python,Discover the real capabilities with Python and become a true developer!
-102,101,Advanced Python,Discover the real capabilities with Python and become a true developer!
-103,101,Microcontrollers,Discover the real capabilities with Python and become a true developer!
-104,103,Dashboards,Discover the real capabilities with Python and become a true developer!
-105,103,Control Systems,Discover the real capabilities with Python and become a true developer!
-106,105,Robotics,Discover the real capabilities with Python and become a true developer!
-107,104,IoT,Discover the real capabilities with Python and become a true developer!
+101,100,Intermediate Python,Build real-world skills with core Python tools.
+102,101,Advanced Python,Master advanced Python techniques and concepts.
+103,101,Microcontrollers,Program microcontrollers for smart hardware.
+104,103,Dashboards,Create interactive data dashboards.
+105,103,Control Systems,Automate systems using control theory.
+106,105,Robotics,Design and program intelligent robots.
+107,104,IoT,Connect and manage smart devices via IoT.
 109,102,Automation Tools,Use tools to streamline and automate tasks.
 111,109,Automation,Learn core principles of software automation.
 112,102,Django,Build robust web apps using Django.
