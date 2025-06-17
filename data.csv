@@ -7,13 +7,13 @@ id,parentId,name,details
 105,103,Control Systems,Discover the real capabilities with Python and become a true developer!
 106,105,Robotics,Discover the real capabilities with Python and become a true developer!
 107,104,IoT,Discover the real capabilities with Python and become a true developer!
-109,102,Automation Tools,Become a generic-ah programmer :(
-111,109,Automation,Automata mata tamata
-112,102,Django,Django mango banana orange
-113,112,Web Developer,Yaaaaaaaaaaaa!
-114,102,Godot,Robot dot ot?
+109,102,Automation Tools,Use tools to streamline and automate tasks.
+111,109,Automation,Learn core principles of software automation.
+112,102,Django,Build robust web apps using Django.
+113,112,Web Developer,Develop modern and responsive websites.
+114,102,Godot,Create games using the Godot engine.
 115,114,Game Developer,Now you can make PUBG at home!
-117,102,Machine Learning,Terminator terminated!
-118,102,Data Cleanup,Terminator cleaned???
-119,118,Data Scientist,it's science butfor data!
-120,117,AI Engineer,Engineer that AI that fucks you up in fortnite!
+117,102,Machine Learning,Build predictive models with ML.
+118,102,Data Cleanup,Clean and prepare data for analysis.
+119,118,Data Scientist,Analyze and visualize complex datasets.
+120,117,AI Engineer,Build and deploy AI-powered systems.
